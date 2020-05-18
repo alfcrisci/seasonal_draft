@@ -1,0 +1,3 @@
+Rscript WT_create_stacks_temp.r
+Rscript MON_WT_create_climatologies_temp.r
+Rscript aa_extraction_temp.r
